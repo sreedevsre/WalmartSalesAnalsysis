@@ -1,6 +1,6 @@
 
 ---------creating Database-----------------------------------
-create database if not exists walmartsales;
+CREATE DATABASE if not exists walmartsales;
 use walmartsales;
 
 --------------------creating Table--------------------------
