@@ -3,6 +3,8 @@
 create database if not exists walmartsales;
 use walmartsales;
 
+--------------------creating Table--------------------------
+
 CREATE TABLE IF NOT EXISTS sales(
 	invoice_id VARCHAR(30) NOT NULL PRIMARY KEY,
     branch VARCHAR(5) NOT NULL,
