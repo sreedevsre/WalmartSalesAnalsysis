@@ -39,8 +39,8 @@ Conclusion:
 
 ## Business Questions To Answer
 ##Generic Question
-How many unique cities does the data have?
-In which city is each branch?
+1 How many unique cities does the data have?
+2 In which city is each branch?
 ## Product
 How many unique product lines does the data have?
 What is the most common payment method?
